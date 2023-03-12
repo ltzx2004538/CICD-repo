@@ -1,3 +1,3 @@
 # CICD-repo
 
-git squash 3
+squash2
